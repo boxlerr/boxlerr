@@ -16,9 +16,11 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 💼 Trabajo en **[Vaxler](https://vaxler.com.ar)**, desarrollando sitios y aplicaciones web para clientes.
-- ⚡ Construyo con **Next.js, React, TypeScript, Tailwind CSS y Supabase**.
-- 🎓 Estudio sistemas: programación orientada a objetos, Java y diseño de sistemas.
+- 🚀 Soy **Founder & COO de [Vaxler](https://vaxler.com.ar)**, un estudio de software de Argentina.
+- 🎓 Me recibí de **Analista de Sistemas**.
+- 🧭 Llevo los proyectos de punta a punta: relevamiento con el cliente, diagnóstico, arquitectura, desarrollo, puesta en producción y soporte.
+- 🏭 Con Vaxler construimos sistemas para metalúrgicas, empresas de transporte, textiles, comercios, cámaras industriales y estudios creativos.
+- 🎬 También armamos con código (Remotion) los videos de producto y los anuncios de Vaxler.
 - 📍 Argentina.
 
 ## 🛠️ Stack
