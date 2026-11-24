@@ -6,17 +6,17 @@
 
 <p align="center">
   <a href="https://vaxler.com.ar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Founder+%26+COO+de+Vaxler;Analista+de+Sistemas;Software+a+medida+%C2%B7+IA+%C2%B7+Automatizaci%C3%B3n;vaxler.com.ar" alt="Founder & COO de Vaxler" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Founder+de+Vaxler;Analista+de+Sistemas;Software+a+medida+%C2%B7+IA+%C2%B7+Automatizaci%C3%B3n;vaxler.com.ar" alt="Founder de Vaxler" />
   </a>
 </p>
 
 <p align="center">
-  <b>Founder & COO de <a href="https://vaxler.com.ar">Vaxler</a></b> · Analista de Sistemas · Argentina
+  <b>Founder de <a href="https://vaxler.com.ar">Vaxler</a></b> · Analista de Sistemas · Argentina
 </p>
 
 ## 🧑‍💻 Sobre mí
 
-- 🚀 Soy **Founder & COO de [Vaxler](https://vaxler.com.ar)**, un estudio de software de Argentina.
+- 🚀 Soy **Founder de [Vaxler](https://vaxler.com.ar)**, un estudio de software de Argentina.
 - 🎓 Me recibí de **Analista de Sistemas**.
 - 🧭 Llevo los proyectos de punta a punta: relevamiento con el cliente, diagnóstico, arquitectura, desarrollo, puesta en producción y soporte.
 - 🏭 Con Vaxler construimos sistemas para metalúrgicas, empresas de transporte, textiles, comercios, cámaras industriales y estudios creativos.
@@ -25,7 +25,7 @@
 
 ## 🏢 Vaxler
 
-En **[Vaxler](https://vaxler.com.ar)** no nos limitamos a programar: combinamos estrategia de negocio con ingeniería para construir sistemas que las empresas usan todos los días. El equipo: Julián Boxler (Founder & COO), Agustín Bonnaluc (Co-Founder & CTO), Lucas Grodz (Co-Founder & Product Strategy) y Luciano Espinosa (Developer).
+En **[Vaxler](https://vaxler.com.ar)** no nos limitamos a programar: combinamos estrategia de negocio con ingeniería para construir sistemas que las empresas usan todos los días. El equipo: Julián Boxler (Founder), Agustín Bonnaluc (Co-Founder & CTO), Lucas Grodz (Co-Founder & Product Strategy) y Luciano Espinosa (Developer).
 
 | Servicio | Qué hacemos |
 |---|---|
