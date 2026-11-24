@@ -77,3 +77,11 @@
   <a href="https://vaxler.com.ar"><img src="https://img.shields.io/badge/vaxler.com.ar-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="vaxler.com.ar" /></a>
   <a href="https://x.com/boxlerrr"><img src="https://img.shields.io/badge/@boxlerrr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boxlerr&label=Visitas&color=2F81F7&style=flat" alt="Visitas al perfil" />
+</p>
+
+<p align="center"><i>Gracias por pasar ✨</i></p>
