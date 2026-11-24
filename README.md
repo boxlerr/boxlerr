@@ -36,6 +36,37 @@ En **[Vaxler](https://vaxler.com.ar)** no nos limitamos a programar: combinamos 
 | 🛠️ **Mantenimiento** | Actualizaciones, correcciones, soporte y escalado. |
 | 🎓 **Colaboración y capacitación** | Intranets, e-learning y workshops para equipos. |
 
+## 💼 Casos de Vaxler
+
+> De una cristalería a una productora de cine: esto es lo que construimos.
+
+| Cliente | Rubro | Qué construimos |
+|---|---|---|
+| **Punto Glass** | Cristalería del automotor | Órdenes leídas con IA, taller sin papel con firma en tablet y facturas que llegan solas a cada compañía. |
+| **Metalúrgica Longchamps** | Metalúrgica | Planificación de planta: cada orden de trabajo, con su máquina y su operario, en una sola pantalla. |
+| **Don Joaquín Hnos** | Transporte y logística | Gestión de flota: viajes, hojas de ruta, choferes, liquidaciones, gastos y alertas automáticas. |
+| **Biancatex SRL** | Textil e importación | Stock en tiempo real en tres ubicaciones, punto de venta y finanzas en pesos y dólares. |
+| **Bazar M&M** | Comercio minorista y mayorista | Punto de venta y gestión: ventas, stock, caja, compras, presupuestos y cuentas corrientes. |
+| **Universo Tattoo** | Insumos para tatuaje | E-commerce con más de 200 productos, MercadoPago, inventario y panel de administración. |
+| **UIAB Conecta** | Directorio industrial B2B | Directorio de la Unión Industrial de Almirante Brown, con buscador por rubro y cobranza de socios por MercadoPago. |
+| **Catso AV** | Productora audiovisual | Web de cine con panel de administración propio y sincronización automática con Behance. |
+| **ODEN Arquitectura** | Estudio de arquitectura | Sitio editorial bilingüe con galería de proyectos y CMS para el portfolio. |
+| **Emulpar SA** | Emulsiones asfálticas | Automatización industrial, sistemas de gestión y consultoría IT desde 2022. |
+
+👉 [Ver todos los casos en vaxler.com.ar](https://vaxler.com.ar/clientes)
+
+<details>
+<summary>🎓 Proyectos de estudio</summary>
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**Sistema de Excusas**](https://github.com/boxlerr/Sistema-Excusas-Diseno-Sistemas) | Parcial final de Diseño de Sistemas: patrones de diseño y principios SOLID | Java |
+| [**EcoExplorer**](https://github.com/boxlerr/EcoExplorer-Python) | Plataforma para explorar experiencias de turismo ecológico | Python |
+| [**PHP Backend**](https://github.com/boxlerr/PHP-Backend) | Panel de administración con CRUD de tablas y gestión de usuarios | PHP · MySQL |
+| [**Portfolio React**](https://github.com/boxlerr/Portfolio-React-coursera) | Proyecto final del curso React Avanzado (Meta / Coursera) | React |
+
+</details>
+
 ## 🛠️ Stack
 
 **Frontend**
@@ -64,16 +95,6 @@ En **[Vaxler](https://vaxler.com.ar)** no nos limitamos a programar: combinamos 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| [**Vaxler**](https://vaxler.com.ar) | Sitio web de Vaxler | Next.js · Three.js · Framer Motion |
-| [**Sistema de Excusas**](https://github.com/boxlerr/Sistema-Excusas-Diseno-Sistemas) | Parcial final de Diseño de Sistemas: patrones de diseño y principios SOLID | Java |
-| [**EcoExplorer**](https://github.com/boxlerr/EcoExplorer-Python) | Plataforma para explorar experiencias de turismo ecológico | Python |
-| [**PHP Backend**](https://github.com/boxlerr/PHP-Backend) | Panel de administración con CRUD de tablas y gestión de usuarios | PHP · MySQL |
-| [**Portfolio React**](https://github.com/boxlerr/Portfolio-React-coursera) | Proyecto final del curso React Avanzado (Meta / Coursera) | React |
 
 ## 📊 Estadísticas
 
