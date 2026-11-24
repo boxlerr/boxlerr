@@ -45,3 +45,13 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**Vaxler**](https://vaxler.com.ar) | Sitio web de Vaxler | Next.js · Three.js · Framer Motion |
+| [**Sistema de Excusas**](https://github.com/boxlerr/Sistema-Excusas-Diseno-Sistemas) | Parcial final de Diseño de Sistemas: patrones de diseño y principios SOLID | Java |
+| [**EcoExplorer**](https://github.com/boxlerr/EcoExplorer-Python) | Plataforma para explorar experiencias de turismo ecológico | Python |
+| [**PHP Backend**](https://github.com/boxlerr/PHP-Backend) | Panel de administración con CRUD de tablas y gestión de usuarios | PHP · MySQL |
+| [**Portfolio React**](https://github.com/boxlerr/Portfolio-React-coursera) | Proyecto final del curso React Avanzado (Meta / Coursera) | React |
