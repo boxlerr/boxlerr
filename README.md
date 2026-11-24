@@ -96,6 +96,16 @@ En **[Vaxler](https://vaxler.com.ar)** no nos limitamos a programar: combinamos 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+**IA, pagos y automatización**
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge" alt="Remotion" />
+</p>
+
 ## 📊 Estadísticas
 
 <p align="center">
