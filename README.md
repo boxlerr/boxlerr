@@ -23,6 +23,19 @@
 - 🎬 También armamos con código (Remotion) los videos de producto y los anuncios de Vaxler.
 - 📍 Argentina.
 
+## 🏢 Vaxler
+
+En **[Vaxler](https://vaxler.com.ar)** no nos limitamos a programar: combinamos estrategia de negocio con ingeniería para construir sistemas que las empresas usan todos los días. El equipo: Julián Boxler (Founder & COO), Agustín Bonnaluc (Co-Founder & CTO), Lucas Grodz (Co-Founder & Product Strategy) y Luciano Espinosa (Developer).
+
+| Servicio | Qué hacemos |
+|---|---|
+| 💻 **Software a medida** | Sistemas de gestión, ERP, punto de venta, e-commerce, SaaS y apps web y móviles. |
+| 🤖 **IA aplicada y automatización** | Workflows, integraciones e IA que lee documentos y hace el trabajo repetitivo. |
+| 🧭 **Consultoría IT** | Diagnóstico de sistemas y procesos, arquitectura y hoja de ruta por fases. |
+| 🔐 **Cloud y ciberseguridad** | Servidores en la nube, accesos con MFA y monitoreo 24/7. |
+| 🛠️ **Mantenimiento** | Actualizaciones, correcciones, soporte y escalado. |
+| 🎓 **Colaboración y capacitación** | Intranets, e-learning y workshops para equipos. |
+
 ## 🛠️ Stack
 
 **Frontend**
