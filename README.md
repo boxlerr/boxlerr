@@ -62,3 +62,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=boxlerr&show_icons=true&include_all_commits=true&locale=es&theme=github_dark&hide_border=true" alt="Estadísticas de GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxlerr&layout=compact&langs_count=8&locale=es&theme=github_dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=boxlerr&locale=es&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
+</p>
