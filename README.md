@@ -70,3 +70,10 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boxlerr&theme=github-compact&hide_border=true&area=true" alt="Gráfico de actividad" />
 </p>
+
+## 📫 Contacto
+
+<p>
+  <a href="https://vaxler.com.ar"><img src="https://img.shields.io/badge/vaxler.com.ar-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="vaxler.com.ar" /></a>
+  <a href="https://x.com/boxlerrr"><img src="https://img.shields.io/badge/@boxlerrr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+</p>
