@@ -124,9 +124,12 @@ En **[Vaxler](https://vaxler.com.ar)** no nos limitamos a programar: combinamos 
 ## 📫 Contacto
 
 <p>
-  <a href="https://vaxler.com.ar"><img src="https://img.shields.io/badge/vaxler.com.ar-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="vaxler.com.ar" /></a>
+  <a href="https://vaxler.com.ar"><img src="https://img.shields.io/badge/Vaxler-vaxler.com.ar-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Vaxler" /></a>
+  <a href="https://www.linkedin.com/in/julianboxler/"><img src="https://img.shields.io/badge/LinkedIn-julianboxler-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://x.com/boxlerrr"><img src="https://img.shields.io/badge/@boxlerrr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
+
+¿Tenés un proyecto en mente? Escribinos desde **[vaxler.com.ar](https://vaxler.com.ar)**.
 
 ---
 
