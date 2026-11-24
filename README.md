@@ -6,8 +6,12 @@
 
 <p align="center">
   <a href="https://vaxler.com.ar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Desarrollador+web+full+stack;Vaxler+%C2%B7+vaxler.com.ar;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Supabase" alt="Desarrollador web full stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Founder+%26+COO+de+Vaxler;Analista+de+Sistemas;Software+a+medida+%C2%B7+IA+%C2%B7+Automatizaci%C3%B3n;vaxler.com.ar" alt="Founder & COO de Vaxler" />
   </a>
+</p>
+
+<p align="center">
+  <b>Founder & COO de <a href="https://vaxler.com.ar">Vaxler</a></b> · Analista de Sistemas · Argentina
 </p>
 
 ## 🧑‍💻 Sobre mí
